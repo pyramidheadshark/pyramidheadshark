@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nikita
-#### -- a Russian student studying in RTU MIREA
+#### -- a Russian student from RTU MIREA
 ![-- a Russian student studying in RTU MIREA](https://github.com/pyramidheadshark/pyramidheadshark/blob/main/Untitled.png?raw=true)
 
 Since I just started studying, it's still empty here. But I hope that a lot of interesting things will appear here as soon as possible!
