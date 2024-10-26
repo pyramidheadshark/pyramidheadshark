@@ -1,18 +1,23 @@
-### Hi there 👋, I'm Nikita
-#### -- a Russian student from RTU MIREA   
----
-Programming languages:
-- Python
-- SQL
-- R
+Hi, I'm a Machine Learning Engineer specializing in Natural Language Processing (NLP) and (hopefully) the development of novel model architectures.
+Currently a student at RTU MIREA 👨‍🎓, I'm expanding my expertise in MLOps to streamline the deployment and maintenance of machine learning models.
 
-Skills: TensorFlow, Scikit-learn, PyTorch, Keras, Pandas, Numpy, Spark, Seaborn, Docker 
+**Skills & Expertise:**
 
-Familiar with: NLP (BERT, Llama, YandexGPT, Saiga, etc.), Data Analysis (XGBoost, LightGBM, Catboost, RandomForest, etc.)
-___
-- 🌱 I’m currently learning C#, Deep Learning, BigData (Hadoop)
-- 👯 I’m looking to collaborate on various projects based aroud AI (mostly NLP, maybe CV)
+* **Programming Languages:** Python 🐍, R 📊, SQL 🗄️, Mojo 🚀
+* **Machine Learning:** NLP (text classification, generation, etc.), Deep Learning (mention specific architectures if applicable, e.g., Transformers, RNNs), Model Optimization,  MLOps (CI/CD for ML, model monitoring, etc.)
+* **Tools & Technologies:** Scikit-learn, PyTorch, different Meta NLP libraries, Docker, Hadoop (in progress)
+* **Databases:**  PostgreSQL, MySQL, MongoDB, Pinecone
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pyramidheadshark)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/metashrimp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/metashrimp)
 
-![-- a Russian student studying in RTU MIREA](https://github.com/pyramidheadshark/pyramidheadshark/blob/main/Untitled.png?raw=true)
+**Experience:**
+
+* Active participant in various hackathons, including RLT Hack, GPN Fast Track, Viribus Unitis, Rostelecom events, and Gorodskie Legendy.  🏆
+
+
+**Contact:**
+
+* Email: pyramidheadshark@gmail.com ✉️
+* Telegram: @pyramidheadshark 🤖
+
+
+I am currently seeking opportunities to contribute to projects that leverage the full ML lifecycle, from model development to robust deployment and maintenance.
