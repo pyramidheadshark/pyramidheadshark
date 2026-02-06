@@ -42,6 +42,15 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-phs.vercel.app/api?username=pyramidheadshark&show_icons=true&count_private=true&hide=prs,issues&theme=algolia&rank_icon=github&icon_color=2bbc8a&title_color=70d7d0&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" height="150" />
+  <img src="https://github-readme-stats-phs.vercel.app/api/top-langs/?username=pyramidheadshark&layout=compact&count_private=true&hide=Jupyter%20Notebook,HTML,Dart,Java,C%2B%2B&title_color=70d7d0&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" height="150" />
+</div>
+
+---
+
 ### 🚀 Experience & Key Projects
 
 #### **ML Developer @ Sber (May 2025 – Present)**
