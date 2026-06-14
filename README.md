@@ -21,7 +21,7 @@
 
 ### Чем занимаюсь
 
-#### TechCon — Руководитель AI-отдела *(2026 – настоящее время)*
+#### TechCon — MLOps, руковожу командой ИИ-разработки *(2026 – настоящее время)*
 
 **Дефектоскопия зданий**
 ![](https://img.shields.io/badge/production-active-4caf50?style=flat-square)
@@ -57,7 +57,7 @@
 ![](https://img.shields.io/badge/pilot-TechCon-0072ff?style=flat-square)
 
 > *«Наводим порядок в AI-разработке»* — делает использование AI в команде безопасным, управляемым и эффективным.
-> `статус` → `верификация` → `сухой прогон` → `применение` — никаких скрытых изменений.
+> `Спецификация и согласование` → `Параллельное написание и тесты` → `Валидация и аналитика` → `Верификация и логирование` — никаких скрытых изменений.
 
 ---
 
@@ -68,11 +68,11 @@
 ![](https://img.shields.io/badge/users-1000%2B-4caf50?style=flat-square)
 ![](https://img.shields.io/badge/satisfaction-80%25%2B-ff9800?style=flat-square)
 
-**Автоматическая оценка переговоров**
+**Автоматический анализ стратегических переговоров**
 ![](https://img.shields.io/badge/accuracy-above_human_judges-8b5cf6?style=flat-square)
 ![](https://img.shields.io/badge/meetings-50%2B-607d8b?style=flat-square)
 
-**Публично** · ИИ-эксперт Министерства строительства РФ
+**Публично** · [ИИ-эксперт Министерства строительства РФ](https://niisf.org/experts/smirnov-nikita-dmitrievich)
 
 ---
 
